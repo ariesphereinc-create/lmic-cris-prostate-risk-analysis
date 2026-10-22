@@ -116,18 +116,7 @@ Referring everyone sends 44.6 benign patients per 100 for unnecessary evaluation
 
 All imaging in the primary cohort is ultrasound (recorded as US or USS). PSA 1 dates run from 2008-08-07 to 2023-07-21.
 
-## 8. What this replaces in the earlier manuscript
-
-| Earlier claim | Source of that claim | Final analysis |
-|---|---|---|
-| 246 records, 104 benign / 142 malignant | Thesis section 5 | 182 records, 75 benign / 107 malignant (139 patients) |
-| 52% prostate volume missing | Thesis section 5 and Table 5.1 | 8.8% (16/182) |
-| MICE failed, median imputation | Thesis section 5 and reflection | No imputation. Missing values handled natively. |
-| AUC 0.87, test set 49 | Thesis section 5 | 0.751 per patient, 0.837 per record (cross-validation) |
-
-The thesis appendices (268 records, 9.7%, AUC 0.81) and the earlier notebook (266 records, AUC 0.943, mean imputation, imputation before the split) described other runs and are not used.
-
-## 9. Decisions recorded and points to state in the manuscript
+## 8. Decisions recorded and points to state in the manuscript
 
 Resolved:
 - Source row 154 excluded because its PSA dates are placeholders (see section 3).
@@ -140,7 +129,7 @@ To state or acknowledge in the manuscript:
 4. **Precision.** One site, 139 patients, wide fold-to-fold variation. Report intervals and avoid strong claims.
 5. **Repository privacy.** Publish from a new repository, or purge the old history, because earlier output printed patient names.
 
-## 10. Reproducibility record
+## 9. Reproducibility record
 
 - Python 3.12.3, xgboost 3.4.1, scikit-learn 1.8.0, pandas 3.0.2, numpy 2.4.4.
 - Original raw file with names (kept private, not published) MD5: 2c4acddfdb7f473ebc9718457893209e
