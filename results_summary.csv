@@ -1,0 +1,7 @@
+analysis,n,malignant,benign,cv_auc_mean,cv_auc_sd
+PRIMARY: non-definitive excluded,182,107,75,0.837,0.067
+one record per patient,139,77,62,0.751,0.105
+BOUND: non-definitive as malignant,203,128,75,0.808,0.081
+one record per patient,157,95,62,0.716,0.12
+BOUND: non-definitive as benign,203,107,96,0.851,0.059
+one record per patient,157,77,80,0.787,0.065

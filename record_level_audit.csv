@@ -1,0 +1,347 @@
+source_row,Imaging_Type,Imaging_Findings,status,class_used,volume_ml,volume_status,in_patient_level_analysis
+2,US,"enlarged,  181ml",removed: invalid PSA/date/age,,,,False
+3,US,91.37ml,in primary cohort,malignant,91.37,observed,True
+4,US,49ml,removed: invalid PSA/date/age,,,,False
+5,USS,ENLARGED,removed: invalid PSA/date/age,,,,False
+6,USS,"enlarged, vol287.8ml",in primary cohort,benign,287.8,observed,True
+7,USS,ENLARGED,removed: invalid PSA/date/age,,,,False
+8,US,22.8ml,removed: invalid PSA/date/age,,,,False
+9,US,22.8ml,removed: exact duplicate,,,,False
+10,US,"ENLARGED, 211ml",excluded: no definitive histology (clinical review),,211.0,,False
+11,US,"64.16cm3,  enlarge",removed: invalid PSA/date/age,,,,False
+12,US,"volume 230.9cm2,  remarkably enlarged, ",removed: invalid PSA/date/age,,,,False
+13,USS,vol 20.1ml,in primary cohort,malignant,20.1,observed,True
+14,USS,"Enlarged, 100.58ml",in primary cohort,benign,100.58,observed,True
+15,USS,"Enlarged, vol 94.4ml",removed: invalid PSA/date/age,,,,False
+16,USS,"Enlarged,  vol 156.3ml",in primary cohort,malignant,156.3,observed,True
+17,US,41.2cm3,removed: invalid PSA/date/age,,,,False
+18,USS,"Enlarged,  vol 452.7ml",in primary cohort,benign,452.7,observed,True
+19,US,"77ml,  ENLARGED",in primary cohort,malignant,77.0,observed,True
+20,USS,ENLARGED,removed: invalid PSA/date/age,,,,False
+21,USS,"Enlarged, Vol 33.2ml",removed: invalid PSA/date/age,,,,False
+22,US,"138ml,  enlarged",removed: invalid PSA/date/age,,,,False
+23,US,38.8cm3,in primary cohort,benign,38.8,observed,True
+24,USS,"Enlarged prostate,  vol 95.7ml",removed: invalid PSA/date/age,,,,False
+25,US,"Vol enlarged, 150ml",in primary cohort,benign,150.0,observed,True
+26,US,"ENLARGED, 96.1ml",in primary cohort,malignant,96.1,observed,True
+27,US,"437ml,  enlarged",in primary cohort,benign,437.0,observed,True
+28,USS,"Moderate,  36.9ml",removed: invalid PSA/date/age,,,,False
+29,USS,"100ml,  enlarged",in primary cohort,malignant,100.0,observed,True
+30,USS,"volume 230.9cm2,  remarkably enlarged, ",removed: invalid PSA/date/age,,,,False
+31,USS,"64.16cm3,  enlarge",removed: invalid PSA/date/age,,,,False
+32,USS,"Enlarged,  vol. 27.5ml",removed: invalid PSA/date/age,,,,False
+33,US,"enlarged,  44ml",in primary cohort,malignant,44.0,observed,True
+34,US,"ENLARGED, 211ml",removed: exact duplicate,,,,False
+35,US,"ENLARGED, VOL 101.3ml",in primary cohort,benign,101.3,observed,True
+36,USS,"138ml,  enlarged",removed: invalid PSA/date/age,,,,False
+37,USS,"Moderate prostate,  vol 10.5ml",removed: invalid PSA/date/age,,,,False
+38,USS,"Enlarged prostate,  76ml",removed: invalid PSA/date/age,,,,False
+39,USS,"Enlarged prostate,  vol 125.7ml",removed: invalid PSA/date/age,,,,False
+40,USS,"Enlarged,  vol. 40.4ml",in primary cohort,benign,40.4,observed,True
+41,US,"vol.27.3ml, enlarged",removed: invalid PSA/date/age,,,,False
+42,USS,38.8cm3,in primary cohort,benign,38.8,observed,False
+43,US,"45ml, ENLARGED",in primary cohort,malignant,45.0,observed,True
+44,US,38.8cm3,removed: exact duplicate,,,,False
+45,US,"286.0ml,  ENLARGED",removed: invalid PSA/date/age,,,,False
+46,US,59.0ml,in primary cohort,benign,59.0,observed,True
+47,US,"286.0ml,  ENLARGED",removed: exact duplicate,,,,False
+48,US,"ENLARGED, 125ml",in primary cohort,benign,125.0,observed,True
+49,US,24ml,in primary cohort,malignant,24.0,observed,True
+50,US,155.86ml,in primary cohort,benign,155.86,observed,True
+51,USS,"Enlarged,  vol. 65.2ml",removed: invalid PSA/date/age,,,,False
+52,USS,"Enlarged,  vol. 69.0ml",removed: invalid PSA/date/age,,,,False
+53,US,"Enlarged,  vol 164.0ml",in primary cohort,malignant,164.0,observed,True
+54,US,"157ml,  ENLARGED",removed: invalid PSA/date/age,,,,False
+55,US,155.86ml,removed: exact duplicate,,,,False
+56,US,"36.0ml,  ENLARGED",removed: invalid PSA/date/age,,,,False
+57,US,24ml,removed: exact duplicate,,,,False
+58,US,"ENLARGED, 125ml",in primary cohort,benign,125.0,observed,False
+59,US,"Enlarged, 46.1ml",in primary cohort,benign,46.1,observed,True
+60,US,"157ml,  ENLARGED",removed: exact duplicate,,,,False
+61,USS,"Enlarged prostate,  Size 176cm3",in primary cohort,benign,176.0,observed,True
+62,USS,"Enlarged,  vol 84.3ml",removed: invalid PSA/date/age,,,,False
+63,US,"Enlarged, 46.1ml",in primary cohort,benign,46.1,observed,True
+64,US,"enlarged, 117ml",in primary cohort,benign,117.0,observed,True
+65,US,"enlarged,  181ml",removed: exact duplicate,,,,False
+66,US,91.37ml,in primary cohort,malignant,91.37,observed,False
+67,US,"ENLARGED, Vol 103ml",removed: invalid PSA/date/age,,,,False
+68,US,"77ml,  ENLARGED",removed: exact duplicate,,,,False
+69,US,"enlarged,  112ml",in primary cohort,benign,112.0,observed,True
+70,US,"ENLARGED, Vol 103ml",removed: invalid PSA/date/age,,,,False
+71,US,"enlarged, 117ml",removed: exact duplicate,,,,False
+72,US,"enlarged,  112ml",in primary cohort,benign,112.0,observed,True
+73,US,49ml,removed: exact duplicate,,,,False
+74,US,"36.0ml,  ENLARGED",removed: exact duplicate,,,,False
+75,USS,"Enlarged,  vol 175.6ml",removed: invalid PSA/date/age,,,,False
+76,US,"45ml, ENLARGED",removed: exact duplicate,,,,False
+77,US,"Vol enlarged, 150ml",in primary cohort,benign,150.0,observed,False
+78,US,"ENLARGED, 96.1ml",removed: exact duplicate,,,,False
+79,US,"enlarged,  44ml",removed: exact duplicate,,,,False
+80,USS,"Enlarged, 100.58ml",removed: exact duplicate,,,,False
+81,US,"ENLARGED, VOL 101.3ml",removed: exact duplicate,,,,False
+82,US,"vol.27.3ml, enlarged",removed: exact duplicate,,,,False
+83,USS,ENLARGED,removed: exact duplicate,,,,False
+84,USS,"enlarged, vol287.8ml",removed: exact duplicate,,,,False
+85,USS,"Enlarged, Vol 33.2ml",removed: invalid PSA/date/age,,,,False
+86,USS,"Enlarged, vol 94.4ml",removed: exact duplicate,,,,False
+87,US,"volume 230.9cm2,  remarkably enlarged, ",removed: exact duplicate,,,,False
+88,US,"64.16cm3,  enlarge",removed: exact duplicate,,,,False
+89,US,"138ml,  enlarged",removed: exact duplicate,,,,False
+90,US,59.0ml,removed: exact duplicate,,,,False
+91,US,"113ml,  ENLARGED",in primary cohort,benign,113.0,observed,True
+92,US,ENLARGED,removed: invalid PSA/date/age,,,,False
+93,US,32.5ml,in primary cohort,benign,32.5,observed,True
+94,US,"113ml,  ENLARGED",removed: exact duplicate,,,,False
+95,US,41ml,in primary cohort,malignant,41.0,observed,True
+96,US,"ENLARGED,  135ml",removed: invalid PSA/date/age,,,,False
+97,US,"56.7ml,  ENLARGED",removed: invalid PSA/date/age,,,,False
+98,USS,"Enlarged,  vol 54.5ml",removed: invalid PSA/date/age,,,,False
+99,US,32.5ml,removed: exact duplicate,,,,False
+100,US,14.2ml,in primary cohort,malignant,14.2,observed,True
+101,US,175ml,in primary cohort,malignant,175.0,observed,True
+102,USS,"Enlarged prostate,  Vol. 91.1ml",removed: invalid PSA/date/age,,,,False
+103,USS,"Enlarged,  vol 196.7ml",in primary cohort,benign,196.7,observed,True
+104,US,"Enlarged,  Vol. 453.8ml",in primary cohort,benign,453.8,observed,True
+105,USS,"Enlarged prostate,  vol. 136ml",removed: invalid PSA/date/age,,,,False
+106,US,"ENLARGED,  50ml",in primary cohort,malignant,50.0,observed,True
+107,US,"ENLARGED, 231ml",removed: invalid PSA/date/age,,,,False
+108,US,"83ml,  ENLARGED",excluded: no definitive histology (clinical review),,83.0,,False
+109,US,"ENLARGED,  50ml",removed: exact duplicate,,,,False
+110,US,"56.7ml,  ENLARGED",removed: invalid PSA/date/age,,,,False
+111,US,300ml,removed: invalid PSA/date/age,,,,False
+112,USS,"Enlarged,  vol 178ml",removed: invalid PSA/date/age,,,,False
+113,USS,"Enlarged,  vol 70.8ml",removed: invalid PSA/date/age,,,,False
+114,US,"volume 194,  markedly enlarged",in primary cohort,benign,,missing,True
+115,US,"83ml,  ENLARGED",removed: exact duplicate,,,,False
+116,US,"42ml,  ENLARGED",removed: invalid PSA/date/age,,,,False
+117,US,128ml,in primary cohort,malignant,128.0,observed,True
+118,US,"Enlarged, 752.8cm",in primary cohort,malignant,,missing,True
+119,US,"EnlargedV, ol.58.7ml",removed: invalid PSA/date/age,,,,False
+120,USS,"Enlarged,  vol. 40ml",removed: invalid PSA/date/age,,,,False
+121,US,"enlarged,  114cm3",excluded: no definitive histology (clinical review),,114.0,,False
+122,US,ENLARGED,removed: invalid PSA/date/age,,,,False
+123,USS,"Enlarged,  vol 158.6ml",in primary cohort,malignant,158.6,observed,True
+124,USS,"Enlarged, vol 111.2ml",removed: invalid PSA/date/age,,,,False
+125,US,"volume 194,  markedly enlarged",removed: exact duplicate,,,,False
+126,US,"Enlarged, 752.8cm",in primary cohort,malignant,,missing,False
+127,US,"enlarged, 86ml",removed: invalid PSA/date/age,,,,False
+128,US,"ENLRGED, 248ml",in primary cohort,malignant,248.0,observed,True
+129,US,"Enlarged, 40ml",in primary cohort,malignant,40.0,observed,True
+130,US,175ml,in primary cohort,malignant,175.0,observed,False
+131,US,"ENLARGED, 50ml",excluded: no definitive histology (clinical review),,50.0,,False
+132,US,"Enlarged,  Vol. 139.5ml",removed: invalid PSA/date/age,,,,False
+133,US,"ENLARGED, 231ml",removed: exact duplicate,,,,False
+134,US,"ENLRGED, 248ml",in primary cohort,malignant,248.0,observed,True
+135,US,"Enlarged, 40ml",in primary cohort,malignant,40.0,observed,False
+136,US,"enlarged, 86ml",removed: exact duplicate,,,,False
+137,USS,"Normal size,  Vol. 23.9ml",in primary cohort,benign,23.9,observed,True
+138,US,"NORMAL,  12.7CM3",in primary cohort,malignant,12.7,observed,True
+139,US,"volume 194,  markedly enlarged",removed: exact duplicate,,,,False
+140,US,14.2ml,in primary cohort,malignant,14.2,observed,True
+141,US,128ml,in primary cohort,malignant,128.0,observed,False
+142,US,"NORMAL,  12.7CM3",in primary cohort,malignant,12.7,observed,False
+143,US,"ENLARGED,  135ml",removed: invalid PSA/date/age,,,,False
+144,US,41ml,removed: exact duplicate,,,,False
+145,US,"ENLARGED, 50ml",removed: exact duplicate,,,,False
+146,US,"EnlargedV, ol.58.7ml",removed: exact duplicate,,,,False
+147,US,300ml,removed: invalid PSA/date/age,,,,False
+148,uss,"42ml,  ENLARGED",removed: invalid PSA/date/age,,,,False
+149,US,ENLARGED,in primary cohort,benign,,missing,True
+150,US,"150ml,  ENLARGED",in primary cohort,malignant,150.0,observed,True
+151,US,"Enlarged, Vol.32.2ml",in primary cohort,malignant,32.2,observed,True
+152,US,"58.74ml,  ENLARGED",in primary cohort,malignant,58.74,observed,True
+153,US,54.6cm3,in primary cohort,malignant,54.6,observed,True
+154,US,"43ml,  ENLARGED",removed: invalid PSA/date/age,,,,False
+155,USS,"Enlarged, vol 27.6ml",in primary cohort,benign,27.6,observed,True
+156,USS,"enlarged, vol 243ml",in primary cohort,benign,243.0,observed,True
+157,US,"enlarged,  68ml",in primary cohort,malignant,68.0,observed,True
+158,US,"52CM3,  ENLARGED",excluded: no definitive histology (clinical review),,52.0,,False
+159,US,"enlarged,  68ml",removed: exact duplicate,,,,False
+160,US,"ENLARGED,  223CM3",in primary cohort,benign,223.0,observed,True
+161,US,"ENLARGED, 37.4ml",in primary cohort,malignant,37.4,observed,True
+162,US,54.6cm3,in primary cohort,malignant,54.6,observed,False
+163,US,"322ml,  markedly enlarged",in primary cohort,malignant,322.0,observed,True
+164,US,"39ml,  ENLARGED",in primary cohort,malignant,39.0,observed,True
+165,USS,"enlarged,  57.97ml",in primary cohort,malignant,57.97,observed,True
+166,US,"enlarged, 176ml",in primary cohort,malignant,176.0,observed,True
+167,US,"enlarged, 176ml",removed: exact duplicate,,,,False
+168,US,"Enlarged, Vol 74ml",in primary cohort,benign,74.0,observed,True
+169,US,45.62ml,in primary cohort,benign,45.62,observed,True
+170,US,"39ml,  ENLARGED",in primary cohort,malignant,39.0,observed,True
+171, US,"ENLARGED, 173ml",in primary cohort,benign,173.0,observed,True
+172,USS,"Enalarged,  vol 163ml",in primary cohort,benign,163.0,observed,True
+173,US,"85.6ml,  ENLARGED",in primary cohort,benign,85.6,observed,True
+174,US,"39ml,  ENLARGED",removed: exact duplicate,,,,False
+175,US,"enlarged,  57.97ml",in primary cohort,malignant,57.97,observed,False
+176,Us,"201ml, Enlarged",in primary cohort,malignant,201.0,observed,True
+177,US,"Enlarged, Vol 74ml",removed: exact duplicate,,,,False
+178,US,"85.6ml,  ENLARGED",removed: exact duplicate,,,,False
+179,US,"58.74ml,  ENLARGED",in primary cohort,malignant,58.74,observed,False
+180,US,"184ml,  ENLARGED",in primary cohort,benign,184.0,observed,True
+181,US,"ENLARGED,  90ml",excluded: no definitive histology (clinical review),,90.0,,False
+182,US,"45.8ml,  ENLARGED",in primary cohort,benign,45.8,observed,True
+183,US,"43ml,  ENLARGED",removed: exact duplicate,,,,False
+184,US,"45.8ml,  ENLARGED",removed: exact duplicate,,,,False
+185,US,"184ml,  ENLARGED",removed: exact duplicate,,,,False
+186,Us,"201ml, Enlarged",removed: exact duplicate,,,,False
+187, US,"ENLARGED, 173ml",removed: exact duplicate,,,,False
+188,USS,"Enlarged,  Volume 65.7ml",in primary cohort,malignant,65.7,observed,True
+189,USS,"Enlarged,  vol 33.4ml",in primary cohort,malignant,33.4,observed,True
+190,USS,"Enlarged,  vol. 68.7ml",in primary cohort,malignant,68.7,observed,True
+191,US,"119ml,  markedly enlarged",in primary cohort,benign,119.0,observed,True
+192,US,"52CM3,  ENLARGED",removed: exact duplicate,,,,False
+193,USS,"Enlarged, vol 27.6ml",in primary cohort,benign,27.6,observed,True
+194,USS,"enlarged, vol 243ml",removed: exact duplicate,,,,False
+195,USS,"Enlarged prostate,  114.7ml",in primary cohort,malignant,114.7,observed,True
+196,USS,54.6cm3,in primary cohort,malignant,54.6,observed,False
+197,US,"322ml,  markedly enlarged",in primary cohort,malignant,322.0,observed,False
+198,US,"117.5cm3,  enlarged",in primary cohort,malignant,117.5,observed,True
+199,US,"ENLARGED,  223CM3",removed: exact duplicate,,,,False
+200,US,"ENLARGED, 37.4ml",removed: exact duplicate,,,,False
+201,US,"Enlarged, Vol.32.2ml",removed: exact duplicate,,,,False
+202,US,"117ml,  ENLARGED",in primary cohort,malignant,117.0,observed,True
+203,US,ENLARGED,in primary cohort,malignant,,missing,True
+204,US,ENLARGED,removed: exact duplicate,,,,False
+205,US,"150ml,  ENLARGED",removed: exact duplicate,,,,False
+206,US,"ENLARGED,  90ml",removed: exact duplicate,,,,False
+207,USS,"Enlarged prostate,  Vol. 92.9ml",in primary cohort,malignant,92.9,observed,True
+208,USS,"Enlarged,  67ml",excluded: no definitive histology (clinical review),,67.0,,False
+209,USS,"Prostate enlarged,  vol 46.7ml",removed: invalid PSA/date/age,,,,False
+210,US,"117ml,  ENLARGED",removed: exact duplicate,,,,False
+211,USS,"Enlarged,  vol 207ml",excluded: no definitive histology (clinical review),,207.0,,False
+212,USS,"Enlarged,  vol 47.7ml",in primary cohort,benign,47.7,observed,True
+213,USS,"Enlarged,  vol 150.1ml",in primary cohort,benign,150.1,observed,True
+214,USS,"Enlarged,  vol 44ml",in primary cohort,malignant,44.0,observed,True
+215,USS,"Enlarged,  vol 42ml",in primary cohort,malignant,42.0,observed,True
+216,US,ENLARGED,in primary cohort,benign,,missing,True
+217,USS,"Enlarged,  vol 31ml",in primary cohort,benign,31.0,observed,True
+218,US,"Enlarged, vol85ml",in primary cohort,benign,85.0,observed,True
+219,USS,ENLARGED,in primary cohort,benign,,missing,True
+220,uss,enlarge,in primary cohort,malignant,,missing,True
+221,US,ENLARGED,removed: exact duplicate,,,,False
+222,US,"Enlarged, Vol 28.0ml",in primary cohort,benign,28.0,observed,True
+223,USS,ENLARGED,removed: exact duplicate,,,,False
+224,US,"39ml,  ENLARGED",removed: exact duplicate,,,,False
+225,US,"Enlarged, vol85ml",removed: exact duplicate,,,,False
+226,US,ENLARGED,removed: exact duplicate,,,,False
+227,US,45.62ml,removed: exact duplicate,,,,False
+228,uss,enlarge,removed: exact duplicate,,,,False
+229,US,"Enlarged, Vol 28.0ml",removed: exact duplicate,,,,False
+230,USS,"322ml,  markedly enlarged",in primary cohort,malignant,322.0,observed,False
+231,USS,"Enlarged,  vol. 51.5ml",removed: invalid PSA/date/age,,,,False
+232,US,"Enlarged, 45ml",in primary cohort,malignant,45.0,observed,True
+233,USS,61.6cm3,in primary cohort,benign,61.6,observed,True
+234,US,"ENLARGED,  56.7CM3",in primary cohort,benign,56.7,observed,True
+235,US,28ml,removed: invalid PSA/date/age,,,,False
+236,US,"enlarged, 72.55ml",in primary cohort,benign,72.55,observed,True
+237,US,"ENLARGED, 74ml",in primary cohort,benign,74.0,observed,True
+238,US,300ml,in primary cohort,benign,300.0,observed,True
+239,US,"ENLARGED, 62ml",in primary cohort,malignant,62.0,observed,True
+240,US," Enlarged, 64ml",in primary cohort,benign,64.0,observed,True
+241,US,24ml,removed: invalid PSA/date/age,,,,False
+242,USS,"Enlarged,  vol 132ml",in primary cohort,malignant,132.0,observed,True
+243,USS,"Enlarged,  vol. 97.1ml",in primary cohort,malignant,97.1,observed,True
+244,US,"enlarged, 72.55ml",removed: invalid PSA/date/age,,,,False
+245,USS,Vol 36.4ml,in primary cohort,malignant,36.4,observed,True
+246,US,28ml,in primary cohort,malignant,28.0,observed,True
+247,US,28ml,in primary cohort,malignant,28.0,observed,False
+248,uss,45.62ml,in primary cohort,benign,45.62,observed,False
+249,USS,"Enlarged,  vol 33.2ml",in primary cohort,malignant,33.2,observed,False
+250,US,"Enlarged,  vol. 51ml",in primary cohort,benign,51.0,observed,True
+251,US,"enlarged, 60.9ml",in primary cohort,malignant,60.9,observed,True
+252,USS,"enlarged,  181ml",removed: invalid PSA/date/age,,,,False
+253,US,"148ml,  ENLARGED",in primary cohort,malignant,148.0,observed,True
+254,US,"Enlarged, 38.9ml",in primary cohort,malignant,38.9,observed,True
+255,US,60ml,in primary cohort,benign,60.0,observed,True
+256,US,"Enlarged, 45ml",in primary cohort,malignant,45.0,observed,False
+257,USS,"Enlarged, vol 221.8ml",in primary cohort,benign,221.8,observed,True
+258,US,61.6cm3,in primary cohort,benign,61.6,observed,False
+259,US,"Enlarged, 38.9ml",in primary cohort,malignant,38.9,observed,False
+260,US,"56ml, Enlarged",in primary cohort,benign,56.0,observed,True
+261,US," Enlarged, 64ml",in primary cohort,benign,64.0,observed,False
+262,US,"148ml,  ENLARGED",removed: exact duplicate,,,,False
+263,US,"ENLARGED, 62ml",in primary cohort,malignant,62.0,observed,False
+264,US,"56ml, Enlarged",removed: exact duplicate,,,,False
+265,US,"enlarged, 72.55ml",removed: exact duplicate,,,,False
+266,US,38ml,in primary cohort,malignant,38.0,observed,True
+267,US,"enlarged, 60.9ml",in primary cohort,malignant,60.9,observed,False
+268,uss,ENLAEGED,in primary cohort,benign,,missing,True
+269,USS,"Enlarged, vol 54.7ml",excluded: no definitive histology (clinical review),,54.7,,False
+270,US,"enlarged, vol.116ml",in primary cohort,malignant,116.0,observed,True
+271,US,"enlarged, vol.53.1ml",in primary cohort,malignant,53.1,observed,True
+272,USS,"Enlarged, vol155ml",excluded: no definitive histology (clinical review),,155.0,,False
+273,US,60ml,in primary cohort,benign,60.0,observed,False
+274,USS,ENLARGED,in primary cohort,malignant,,missing,True
+275,USS,"ENLARGED, 74ml",in primary cohort,malignant,74.0,observed,True
+276,USS,61.6cm3,excluded: no definitive histology (clinical review),,61.6,,False
+277,USS,"enlarged, vol108ml",in primary cohort,malignant,108.0,observed,True
+278,USS,"Enlarged, 45ml",in primary cohort,malignant,45.0,observed,False
+279,US,"vol 145ml, enlarged",in primary cohort,malignant,145.0,observed,True
+280,USS,ENLARGED,in primary cohort,malignant,,missing,False
+281,USS,"Enlarged,  vol 175.6ml",removed: invalid PSA/date/age,,,,False
+282,US,ENLARGED,removed: invalid PSA/date/age,,,,False
+283,uss,14.2ml,in primary cohort,malignant,14.2,observed,True
+284,USS,"Enlarged, vol 54.7ml",excluded: no definitive histology (clinical review),,54.7,,False
+285,USS,"Enlarged,  vol 98ml",in primary cohort,benign,98.0,observed,True
+286,USS,"Enlarged,  vol 262ml",in primary cohort,benign,262.0,observed,True
+287,USS,"Enlarged,  vol 141ml",in primary cohort,benign,141.0,observed,True
+288,USS,"Enlarged,  vol 77.9ml",in primary cohort,malignant,77.9,observed,True
+289,US,"138ml,  enlarged",removed: invalid PSA/date/age,,,,False
+290,USS,38ml,in primary cohort,malignant,38.0,observed,False
+291,USS,"enlarged, vol108ml",removed: exact duplicate,,,,False
+292,USS,"Enlarged,  vol 54.4ml",excluded: no definitive histology (clinical review),,54.4,,False
+293,US,"vol 145ml, enlarged",removed: exact duplicate,,,,False
+294,uss,"ENLRGED, 248ml",in primary cohort,malignant,248.0,observed,False
+295,USS,"Enlarged, vol155ml",excluded: no definitive histology (clinical review),,155.0,,False
+296,US,"enlarged, vol.116ml",removed: exact duplicate,,,,False
+297,US,"enlarged, vol.53.1ml",in primary cohort,malignant,53.1,observed,False
+298,US,ENLARGED,removed: exact duplicate,,,,False
+299,US,ENLARGED,in primary cohort,benign,,missing,True
+300,US,"ENLARGED, 74ml",in primary cohort,benign,74.0,observed,False
+301,US,"ENLARGED,  56.7CM3",removed: exact duplicate,,,,False
+302,US,"enlarged, 60.9ml",removed: invalid PSA/date/age,,,,False
+303,USS,91.5ml,in primary cohort,malignant,91.5,observed,True
+304,US,61.6cm3,removed: exact duplicate,,,,False
+305,US,38ml,in primary cohort,malignant,38.0,observed,False
+306,US,ENLARGED,in primary cohort,benign,,missing,False
+307,USS,"Enlarged, vol 221.8ml",in primary cohort,benign,221.8,observed,False
+308,US,"Enlarged, Vol 33.2ml",removed: invalid PSA/date/age,,,,False
+309,uss,ENLAEGED,removed: exact duplicate,,,,False
+310,US,60ml,in primary cohort,benign,60.0,observed,False
+311,USS,"Enlarged, 38.4ml",in primary cohort,malignant,38.4,observed,True
+312,US,ENLARGED,in primary cohort,malignant,,missing,True
+313,USS,"Normal size,  Vol. 22.3ml",excluded: no definitive histology (clinical review),,22.3,,False
+314,US,ENLARGED,in primary cohort,malignant,,missing,False
+315,USS,32.5ml,removed: invalid PSA/date/age,,,,False
+316,USS,"Enlarged, 38.4ml",removed: exact duplicate,,,,False
+317,US,"ENLARGED, 231ml",removed: invalid PSA/date/age,,,,False
+318,US,"Enlarged, Vol 33.2ml",in primary cohort,malignant,33.2,observed,True
+319,USS,"Enlarged,  vol 207ml",in primary cohort,malignant,207.0,observed,True
+320,US,"Enlarged, Vol 74ml",removed: invalid PSA/date/age,,,,False
+321,US,"Enlarged, vol 94.4ml",removed: invalid PSA/date/age,,,,False
+322,US,"Enlarged, Vol 33.2ml",in primary cohort,malignant,33.2,observed,True
+323,US,"enlarged, 176ml",excluded: no definitive histology (clinical review),,176.0,,False
+324,US,"enlarged,  112ml",in primary cohort,malignant,112.0,observed,True
+325,US,"56ml, Enlarged",in primary cohort,malignant,56.0,observed,True
+326,US,"enlarged, 60.9ml",in primary cohort,malignant,60.9,observed,True
+327,US,"Enlarged prostate,  114.7ml",in primary cohort,malignant,114.7,observed,False
+328,USS,"Enlarged, 38.9ml",in primary cohort,malignant,38.9,observed,False
+329,US,87ml,in primary cohort,benign,87.0,observed,True
+330,USS,"113ml,  ENLARGED",in primary cohort,malignant,113.0,observed,False
+331,US,"enlarged, vol287.8ml",excluded: no definitive histology (clinical review),,287.8,,False
+332,USS,"Enlarged,  67ml",excluded: no definitive histology (clinical review),,67.0,,False
+333,US,"Enlarged,  67ml",in primary cohort,benign,67.0,observed,False
+334,USS,"Enlarged,  vol. 97.1ml",excluded: no definitive histology (clinical review),,97.1,,False
+335,USS,"39ml,  ENLARGED",excluded: no definitive histology (clinical review),,39.0,,False
+336,US,87ml,in primary cohort,malignant,87.0,observed,True
+337,USS,"52CM3,  ENLARGED",in primary cohort,malignant,52.0,observed,True
+338,US,"Enlarged,  vol 207ml",in primary cohort,malignant,207.0,observed,True
+339,USS,"ENLARGED, 211ml",in primary cohort,benign,211.0,observed,True
+340,US,60ml,in primary cohort,benign,60.0,observed,True
+341,US,"148ml,  ENLARGED",in primary cohort,malignant,148.0,observed,True
+342,US,"Enlarged, 100.58ml",in primary cohort,benign,100.58,observed,False
+343,US,"Enlarged,  vol. 40ml",in primary cohort,malignant,40.0,observed,True
+344,USS,"ENLARGED, 74ml",in primary cohort,benign,74.0,observed,True
+345,US,"83ml,  ENLARGED",excluded: no definitive histology (clinical review),,83.0,,False
+346,USS,155.86ml,in primary cohort,malignant,155.86,observed,False
+347,US,ENLARGED,in primary cohort,malignant,,missing,False
