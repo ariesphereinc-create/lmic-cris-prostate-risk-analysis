@@ -1,0 +1,5 @@
+score,auc,ci_low,ci_high
+Model (pooled out-of-fold),0.745,0.661,0.826
+PSA 1 alone,0.745,0.658,0.825
+PSA 2 alone,0.659,0.569,0.756
+PSA velocity alone (negated),0.706,0.617,0.79
