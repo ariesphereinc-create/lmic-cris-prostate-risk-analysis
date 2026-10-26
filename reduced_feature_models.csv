@@ -1,0 +1,3 @@
+model,records,cv_auc_mean,cv_auc_sd,pooled_oof_auc
+All nine predictors (primary),182,0.799,0.074,0.802
+"Without PSA 2, PSA velocity and PSA doubling time",182,0.783,0.071,0.781

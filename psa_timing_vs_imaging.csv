@@ -1,0 +1,3 @@
+psa,patients_with_imaging_date,psa_before_imaging,psa_on_or_after_imaging,median_days_after_imaging,q1_days,q3_days,more_than_30_days_after
+PSA 1,138,61,77,3.0,-223.0,171.5,62
+PSA 2,138,45,93,81.5,-93.25,310.75,90
