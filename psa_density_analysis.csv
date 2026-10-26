@@ -1,0 +1,5 @@
+score,auc,ci_low,ci_high,diff_vs_PSA 1 alone,diff_ci_low,diff_ci_high,records,analysis,cv_auc_mean,cv_auc_sd
+PSA density alone,0.787,0.698,0.867,0.029,-0.015,0.073,166,"Single scores, records with volume",,
+PSA 1 alone,0.758,0.664,0.845,,,,166,"Single scores, records with volume",,
+model + density,0.794,,,,,,182,Primary model plus PSA density (all records),0.787,0.076
+primary,0.802,,,,,,182,Primary model (all records),0.799,0.074
