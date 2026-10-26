@@ -1,0 +1,4 @@
+target_sensitivity,threshold,sensitivity,sens_ci_low,sens_ci_high,specificity,referred_per_100,benign_not_referred_per_100,cancers_missed_per_100,tp,fn,fp,tn
+0.95,0.147,0.953,0.895,0.98,0.16,90.7,6.6,2.7,102,5,63,12
+0.9,0.17,0.907,0.836,0.948,0.187,86.8,7.7,5.5,97,10,61,14
+0.8,0.348,0.804,0.719,0.868,0.533,66.5,22.0,11.5,86,21,35,40
